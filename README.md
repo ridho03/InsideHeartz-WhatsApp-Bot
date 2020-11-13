@@ -3,7 +3,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
   <br>
-  <a href="https://github.com/fdciabdul/InsideHeartz-WhatsApp-Bot"><img src="https://telegra.ph/file/403ab70e865577ceb0383.png" width="150" height=150"></a>
+  <a href="https://github.com/ridho03
+  /InsideHeartz-WhatsApp-Bot"><img src="https://telegra.ph/file/403ab70e865577ceb0383.png" width="150" height=150"></a>
   <br>
   Inside Heartz WhatsApp Bot
   <br>
